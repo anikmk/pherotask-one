@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn-primary{
+    color: #fff;
+    padding: 20px 25px;
+    background-color: #F15B22;
+    border: 0;
+    border-radius: 5px;
+}
+#header{
+   background-image: url('images/banner/banner1.png');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+   padding-bottom: 100px;
+   display: flex;
+   align-items: center;
+   
+}
+.header-content {
+    text-align: right;
+    margin-left: auto;
+    width: 50%;
+    padding: 0 90px;
+    /* displ; */
+}
+.header-content h1 {
+    color: #151414;
+    font-size: 65px;
+    
+    
+}
+.header-content p {
+    margin: 32px 0px;
+    color: #444343;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+
+/* failer section desing */
+.failer {
+    display: flex;
+    justify-content: space-between;
+    padding: 90px;
+    align-items: center;
+}
+.failer-content {
+    margin-left: 90px;
+}
+.failer-content h2 {
+    font-size: 40px;
+}
+.failer-content p {
+    color: #444343;
+    margin: 24px 0px;
+}
+.failer-content ul li {
+    list-style-type: none;
+    margin-left: 15px;
+    color: #444343;
+    line-height: 30px
+}
+
+#main {
+    width: 1140px;
+    margin: auto;
+    margin-bottom: 60px;
+}
+.myplan-title {
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+.myplan {
+    display: flex;
+    justify-content: space-between;
+
+}
+.myplan h3{
+    font-size: 30px;
+    margin: 20px 0px;
+
+}
+.myplan p{
+ 
+color: #444343;
+font-size: 17px;
+}
+.call {
+    background-image: url('images/watch.png'), url('images/gradient3.png');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    padding: 60px;
+    border-radius: 8px;
+
+}
+.call h1 {
+    font-size: 35px;
+    color: #fff;
+    margin-bottom: 15px;
+
+}
+.btn1-primary {
+    color: #000000;
+    padding: 20px 25px;
+    background-color: rgb(255, 255, 255);
+    border: 0;
+    border-radius: 5px;
+}
+
+.footer {
+   
+    display: flex;
+    justify-content: space-between;
+    
+}
+.left h1 {
+    color: #fff;
+}
+.left p {
+    margin: 15px 0px;
+    color: #ffffff;
+}
+.right h1 {
+    color: #fff;
+}
+.input input {
+    display: block;
+    margin-bottom: 12px;
+    
+}
+.input input[type=text]{
+    padding: 10px 12px;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #000000;
+    margin-top: 10px;
+    
+}
+#main1 {
+    padding: 130px 230px;
+    background-color: #000000;
+}
+
+
+
